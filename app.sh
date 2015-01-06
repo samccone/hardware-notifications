@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # If you dont want to set your info in your ENV
 # just set them on the right inside of the quotes
