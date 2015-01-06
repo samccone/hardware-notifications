@@ -2,6 +2,8 @@
 
 #### For when you need notifications IRL
 
+![](https://cloud.githubusercontent.com/assets/883126/5623631/f2a54bb8-9524-11e4-93fe-063487faa27f.gif)
+
 This project is built using some wires, two LEDs a spark core and jq.
 
 ##### Spark core setup
